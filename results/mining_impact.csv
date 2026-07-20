@@ -1,0 +1,5 @@
+metric,value
+f1_with_mining,0.7725856697819314
+f1_without_mining,0.7570977917981072
+f1_improvement,0.015487877983824228
+f1_improvement_pct,2.0456905503634504
