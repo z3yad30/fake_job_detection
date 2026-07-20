@@ -55,7 +55,7 @@ The main runtime flow is in `Note_Books/07_streamlit.py`, which loads preprocess
 ```powershell
 cd "d:\University\semester_6\Data Mining techniques\Project\fake_job_detection"
 python -m venv .venv
-.\.venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate.bat
 ```
 
 2. Install the required Python packages:
