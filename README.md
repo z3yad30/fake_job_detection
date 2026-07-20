@@ -109,6 +109,22 @@ jupyter notebook Note_Books/03_nlp_pipeline.ipynb
 - `results/` — evaluation outputs, model comparison, and prediction results
 - `Fake_Job_Postings_Project_Plan.md` — project plan and methodology notes
 
+## Demo:
+
+- Manlual one by one inputs:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2458032-27e4-4007-9978-223c7eac0a03" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7e0c7b8-49d7-4ad2-bfdb-88fafa979ff2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bb29ffd-db78-4eb6-9ab4-471769189c76" />
+- result:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/170be7e9-e074-4b6e-95b0-d2d2005a511b" />
+---
+- Raw multiple inputs:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07d4d6e3-9765-4e9a-ac4d-315be8e29b4b" />
+- results:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc80c390-d250-45cd-aae9-65fce76b3f19" />
+
+
+
 ## License
 
 No license specified. Replace this section with an appropriate license if one is added.
