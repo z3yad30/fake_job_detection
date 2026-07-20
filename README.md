@@ -123,6 +123,10 @@ jupyter notebook Note_Books/03_nlp_pipeline.ipynb
 - results:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc80c390-d250-45cd-aae9-65fce76b3f19" />
 
+## Test
+
+- **Live demo:** https://fakejobdetection1.streamlit.app/
+
 
 
 ## License
